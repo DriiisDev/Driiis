@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eddie98
-- 👀 I’m interested in software development and product designer
-- 🌱 I’m currently learning python, uping my design skill on adobe illustrator, photoshop and blender.
-- 💞️ I’m looking to collaborate on python project and new inventory design.
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python project
 - 📫 kindly reach me: olayinkayakub01@gmail.com
 Im readily available for project collaboration.
 
