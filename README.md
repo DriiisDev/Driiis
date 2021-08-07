@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python project
 - 📫 kindly reach me: olayinkayakub01@gmail.com
-Im readily available for project collaboration.
+I am readily available for project collaboration.
 
 <!---
 eddie98/eddie98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
