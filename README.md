@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Idris Yakub
 - 👀 I’m interested in software development
-- 🌱 I’m currently strengthen my skills as a JavaScript and Python Developer
+- 🌱 I’m currently strengthen my skills as a JavaScript, Python and C# Developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 kindly reach me: olayinkayakub01@gmail.com
 I am readily available for project collaboration.
