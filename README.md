@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Idris Olayinka Yakub
-- 👀 I’m interested in software development/engineering
-- 🌱 I’m currently strengthen my skills as a JavaScript, C# and .NET Full Stack Developer
+- 👀 I’m interested in software development engineering
+- 🌱 I’m currently strengthen my skills as a JavaScript, Java and C# Technologies
 - 💞️ I’m looking to collaborate on projects
 - 📫 kindly reach me: olayinkayakub01@gmail.com
 I am readily available for project collaboration.
